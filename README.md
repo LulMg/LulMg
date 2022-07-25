@@ -14,5 +14,5 @@ Hello world, welcome to my profile! <img src="https://media.giphy.com/media/kFkD
 
  <br/>
  
-My contribution graph vs Snake
+My contribution graph:
 ![snake gif](https://github.com/LulMg/LulMg/blob/output/github-contribution-grid-snake.svg)
