@@ -1,9 +1,9 @@
-<h2>Hello world, welcome to my profile! <img src="https://media.giphy.com/media/kFkDuCdGq5DJQQTL1X/giphy-downsized-large.gif" width= "40"/><h2>
+###Hello world, welcome to my profile! <img src="https://media.giphy.com/media/kFkDuCdGq5DJQQTL1X/giphy-downsized-large.gif" width= "40"/>
 
 <p>I'm Laura, I love everything about development world and enjoy learning about it..</p>
 <img align='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="230">
 <p>
-- 👯 I’m looking to collaborate on new side projects
+- 👯 I’m looking to collaborate on new side projects <br/>
 - 📫 How to reach me: lulumarin.25.lm@gmailcom 
 </p>
 
