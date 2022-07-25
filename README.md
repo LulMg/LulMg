@@ -7,5 +7,5 @@ Hello world, welcome to my profile! <img src="https://media.giphy.com/media/kFkD
 - 📫 How to reach me: lulumarin.25.lm@gmailcom 
 </p>
 
-[![Linkedin Laura](https://img.shields.io/badge/-laura-marin-garcia-0a2350231-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-marin-garcia-0a2350231/)](https://www.linkedin.com/in/laura-marin-garcia-0a2350231/)
+[![Linkedin Laura](https://www.linkedin.com/in/laura-marin-garcia-0a2350231/)]
 [![GitHub LulMg](https://img.shields.io/github/followers/LulMg?label=follow&style=social)](https://github.com/LulMg)
