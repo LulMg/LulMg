@@ -6,6 +6,6 @@ Hello world, welcome to my profile! <img src="https://media.giphy.com/media/kFkD
 - 👯 I’m looking to collaborate on new side projects <br/>
 - 📫 How to reach me: lulumarin.25.lm@gmailcom 
 </small>
-<br/>
+
 [![Linkedin Badge](https://img.shields.io/badge/-laura-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/laura-marin-0a2350231/)](https://www.linkedin.com/in/laura-marin-0a2350231/)
 [![GitHub LulMg](https://img.shields.io/github/followers/LulMg?label=follow&style=social)](https://github.com/LulMg)
