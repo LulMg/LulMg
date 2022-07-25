@@ -11,3 +11,7 @@ Hello world, welcome to my profile! <img src="https://media.giphy.com/media/kFkD
 
 [![Linkedin Badge](https://img.shields.io/badge/-laura-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/laura-marin-0a2350231/)](https://www.linkedin.com/in/laura-marin-0a2350231/)
 [![GitHub LulMg](https://img.shields.io/github/followers/LulMg?label=follow&style=social)](https://github.com/LulMg)
+
+
+My contribution graph vs Snake
+![snake gif](https://github.com/LulMg/LulMg/blob/output/github-contribution-grid-snake.gif)
